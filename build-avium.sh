@@ -221,11 +221,11 @@ cat > .repo/local_manifests/avium_audi.xml << 'LOCALMANIFEST'
   <project name="proprietary_vendor_oneplus_audi"
            path="vendor/oneplus/audi"
            remote="firefly"
-           revision="16.2" />
+           revision="lineage-23.2" />
   <project name="proprietary_vendor_oneplus_sm8650-common"
            path="vendor/oneplus/sm8650-common"
            remote="firefly"
-           revision="16.2" />
+           revision="lineage-23.2" />
   <project name="android_hardware_oplus"
            path="hardware/oplus"
            remote="firefly"
